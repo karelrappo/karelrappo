@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 I am a financial analyst from Estonia, with deep interest in data.
 ## Stack
 * SQL (Snowflake, Postgre, Hive)
@@ -13,5 +12,3 @@ I am a financial analyst from Estonia, with deep interest in data.
 
 - 🤔 I’m looking for help with ...
 * Data Science / Machine learning in general
-
--->
