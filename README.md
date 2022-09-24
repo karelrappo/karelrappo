@@ -18,7 +18,7 @@ Tools:
 * git ..duh obviously
 
 ## Portfolio Projects
-* To be updated
+* [Insurance Cost prediction](https://github.com/karelrappo/insurance-webapp)
 
 ## Currently
 * Learning about various ML frameworks and putting them into practice
