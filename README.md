@@ -19,6 +19,8 @@ Tools:
 
 ## Portfolio Projects
 * [Insurance Cost prediction](https://github.com/karelrappo/insurance-webapp)
+* [Bachelor Thesis](https://github.com/karelrappo/thesis2020) - 
+** State-dependent evaluation of Random Forest in forecasting the real activity of the US economy using treasury yield implied volatility
 
 ## Currently
 * Learning about various ML frameworks and putting them into practice
