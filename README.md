@@ -19,7 +19,7 @@ Tools:
 
 ## Portfolio Projects
 * [Insurance Cost prediction](https://github.com/karelrappo/insurance-webapp)
-* [Estonian real estate scraper](https://github.com/karelrappo/realestate)
+* [Real estate scrapers for Estonia (City24, KV)](https://github.com/karelrappo/realestate)
 * [Bachelor Thesis](https://github.com/karelrappo/thesis2020) - 
 ** State-dependent evaluation of Random Forest in forecasting the real activity of the US economy using treasury yield implied volatility
 
