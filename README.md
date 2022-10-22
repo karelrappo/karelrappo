@@ -11,6 +11,7 @@
 * Financial modelling
 * Data manipulation and analysis
 * BI & ETL development
+
 Stack:
 * SQL (Snowflake, Postgre, Hive)
 * Tableau
