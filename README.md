@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## About me
+## 👨‍💻About me
 
 * Financial analyst with strong technical data-related skills
 * from the land of unicorns - Estonia
@@ -21,7 +21,7 @@ Stack:
 * Pentaho Data Integration
 * git ..duh obviously
 
-## Portfolio Projects
+## 📁Portfolio Projects
 * [Insurance Cost prediction](https://github.com/karelrappo/insurance-webapp)
 * [Real estate scrapers for Estonia (City24, KV)](https://github.com/karelrappo/realestate)
 * [Bachelor Thesis](https://github.com/karelrappo/thesis2020) - 
