@@ -37,3 +37,6 @@ Stack:
 🤔 I’m looking for help with ...
 * Data Science / Machine learning mentorship
 * Feel free to connect on [Linkedin](https://www.linkedin.com/in/karel-räppo/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krappo)](https://github.com/anuraghazra/github-readme-stats)
+
