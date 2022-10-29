@@ -28,11 +28,11 @@
 ## 📁Portfolio Projects
 ### Python
 * [Insurance Cost prediction](https://github.com/karelrappo/insurance-webapp)
-  * Simply web-app that asks user input, and uses pre-trained Gradient Boosting model to predict the expected insurance cost.
+  * Simple web application that asks user input, and uses pre-trained Gradient Boosting model to predict the expected insurance cost.
   * Stack used: Python (Flask & Sklearn), HTML, CSS, JS.
 * [Real estate scrapers for Estonia (City24, KV)](https://github.com/karelrappo/realestate)
-  * Web scraper that loops through pages of listing, and stores the most important information. Furthermore, data cleaning, feature engineering, and modelling provided in addition in a jupyter notebook.
-** Stack used: Python(Selenium, Sklearn, Pandas etc.)
+  * Web scraper that loops through real estate listings, and stores the most important features. Data cleaning, feature engineering, and model provided in addition in a jupyter notebook.
+** Stack used: Python (Selenium, Sklearn, Pandas etc.)
 ### R
 * [Bachelor Thesis](https://github.com/karelrappo/thesis2020) - 
   * State-dependent evaluation of Random Forest in forecasting the real activity of the US economy using treasury yield implied volatility
