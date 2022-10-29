@@ -22,8 +22,10 @@ Stack:
 * git ..duh obviously
 
 ## 📁Portfolio Projects
-* [Insurance Cost prediction](https://github.com/karelrappo/insurance-webapp)
-* [Real estate scrapers for Estonia (City24, KV)](https://github.com/karelrappo/realestate)
+### Python
+* [Insurance Cost prediction](https://github.com/karelrappo/insurance-webapp) - Python (Flask & Sklearn), HTML, CSS, JS.
+* [Real estate scrapers for Estonia (City24, KV)](https://github.com/karelrappo/realestate) - Python(Selenium, Sklearn, Pandas etc.)
+### R
 * [Bachelor Thesis](https://github.com/karelrappo/thesis2020) - 
 ** State-dependent evaluation of Random Forest in forecasting the real activity of the US economy using treasury yield implied volatility
 
