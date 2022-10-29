@@ -34,8 +34,8 @@
   * Web scraper that loops through real estate listings, and stores the most important features. Data cleaning, feature engineering, and model provided in addition in a jupyter notebook.
 ** Stack used: Python (Selenium, Sklearn, Pandas etc.)
 ### R
-* [Bachelor Thesis](https://github.com/karelrappo/thesis2020) - 
-  * State-dependent evaluation of Random Forest in forecasting the real activity of the US economy using treasury yield implied volatility
+* [Bachelor Thesis at Stockholm School of Economics](https://github.com/karelrappo/thesis2020) - published as one of top students research papers.
+  * Topic: State-dependent evaluation of Random Forest in forecasting the real activity of the US economy using treasury yield implied volatility
 
 ## Currently
 * Working as financial analyst (FP&A) in Booking.com
