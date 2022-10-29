@@ -12,29 +12,36 @@
 * Data manipulation and analysis
 * BI & ETL development
 
-Stack:
+### Stack:
 * SQL (Snowflake, Postgre, Hive)
-* Tableau
-* MicroStrategy
 * R
-* Python (Pandas, Sklearn, etc.)
+* Python 
+** Pandas
+** Numpy
+** Sklearn
 * Pentaho Data Integration
 * git ..duh obviously
+#### Data visualization
+* Tableau
+* MicroStrategy
+* RShiny
 
 ## 📁Portfolio Projects
 ### Python
-* [Insurance Cost prediction](https://github.com/karelrappo/insurance-webapp) - Python (Flask & Sklearn), HTML, CSS, JS.
-* [Real estate scrapers for Estonia (City24, KV)](https://github.com/karelrappo/realestate) - Python(Selenium, Sklearn, Pandas etc.)
+* [Insurance Cost prediction](https://github.com/karelrappo/insurance-webapp)
+** Simply web-app that asks user input, and uses pre-trained Gradient Boosting model to predict the expected insurance cost.
+** Stack used: Python (Flask & Sklearn), HTML, CSS, JS.
+* [Real estate scrapers for Estonia (City24, KV)](https://github.com/karelrappo/realestate)
+** Web scraper that loops through pages of listing, and stores the most important information. Furthermore, data cleaning, feature engineering, and modelling provided in addition in a jupyter notebook.
+** Stack used: Python(Selenium, Sklearn, Pandas etc.)
 ### R
 * [Bachelor Thesis](https://github.com/karelrappo/thesis2020) - 
 ** State-dependent evaluation of Random Forest in forecasting the real activity of the US economy using treasury yield implied volatility
 
 ## Currently
-* Working as financial analyst in Booking.com
+* Working as financial analyst (FP&A) in Booking.com
 * SQL consultant at [Datalemur](http://datalemur.com)
 * Learning about various ML frameworks and putting them into practice
-* Polishing up my Python skills
-
 
 🤔 I’m looking for help with ...
 * Data Science / Machine learning mentorship
