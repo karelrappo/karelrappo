@@ -30,7 +30,7 @@
 * [Insurance Cost prediction](https://github.com/karelrappo/insurance-webapp)
   * Simple web application that asks user input, and uses pre-trained Gradient Boosting model to predict the expected insurance cost.
   * Stack used: Python (Flask & Sklearn), HTML, CSS, JS.
-* [Real estate scrapers for Estonia (City24, KV)](https://github.com/karelrappo/realestate)
+* [Real estate listing Scraper)](https://github.com/karelrappo/realestate)
   * Web scraper that loops through real estate listings, and stores the most important features. Data cleaning, feature engineering, and model provided in addition in a jupyter notebook.
 ** Stack used: Python (Selenium, Sklearn, Pandas etc.)
 ### R
