@@ -1,4 +1,12 @@
 ### Hi there 👋
+
+## 👨‍💻About me
+
+* Data analyst with strong background in Finance
+* from the land of unicorns - Estonia
+* Play volley, golf & tennis
+* Self-learned Python, SQL, R
+
 <div id="Contacts" align="center">
   <a href="https://www.linkedin.com/in/mpalkovic/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -7,13 +15,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
-
-## 👨‍💻About me
-
-* Data analyst with strong background in Finance
-* from the land of unicorns - Estonia
-* Play volley, golf & tennis
-* Self-learned Python, SQL, R
 
 ## 📚Skills
 * Financial modelling
@@ -52,7 +53,6 @@
 🤔 I’m looking for help with ...
 * Data Science / Machine learning mentorship
 * Tips for learning AWS
-* Feel free to connect on [Linkedin](https://www.linkedin.com/in/karel-räppo/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karelrappo)](https://github.com/anuraghazra/github-readme-stats)
 
