@@ -2,9 +2,9 @@
 
 ## 👨‍💻About me
 
-* Data analyst with strong background in Finance
+* Data analyst in Security & Fraud with a strong background in Finance (FP&A).
 * from the land of unicorns - Estonia
-* Play volley, golf & tennis
+* Play volley, golf & tennis as a hobby
 * Self-learned Python, SQL, R
 
 <div id="Contacts" align="center">
@@ -18,8 +18,11 @@
 
 ## 📚Skills
 * Financial modelling
-* Data manipulation & analysis
+* Data analysis & visualization
 * BI & ETL development
+** MicroStrategy
+** Tableau
+** Pentaho Data Integration
 
 ### Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -30,9 +33,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-* Pentaho Data Integration
-* Tableau
-* MicroStrategy
+
 
 ## 📁Portfolio Projects
 ### Python
