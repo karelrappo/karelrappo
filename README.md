@@ -2,14 +2,14 @@
 
 ## 👨‍💻About me
 
-* Financial analyst with strong technical data-related skills
+* Data analyst with strong background in Finance
 * from the land of unicorns - Estonia
 * Do website development as a hobby
-* Self-learned R, SQL, Python
+* Self-learned Python, SQL, R
 
 ## 📚Skills
 * Financial modelling
-* Data manipulation and analysis
+* Data manipulation & analysis
 * BI & ETL development
 
 ### Stack:
@@ -38,12 +38,12 @@
   * Topic: State-dependent evaluation of Random Forest in forecasting the real activity of the US economy using treasury yield implied volatility
 
 ## Currently
-* Working as financial analyst (FP&A) in Booking.com
-* SQL consultant at [Datalemur](http://datalemur.com)
-* Learning about various ML frameworks and putting them into practice
+* Working as data analyst in Security & Fraud in Booking.com
+* Learning AWS
 
 🤔 I’m looking for help with ...
 * Data Science / Machine learning mentorship
+* Tips for learning AWS
 * Feel free to connect on [Linkedin](https://www.linkedin.com/in/karel-räppo/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karelrappo)](https://github.com/anuraghazra/github-readme-stats)
