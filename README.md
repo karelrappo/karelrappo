@@ -20,9 +20,9 @@
 * Financial modelling
 * Data analysis & visualization
 * BI & ETL development
-** MicroStrategy
-** Tableau
-** Pentaho Data Integration
+  * MicroStrategy
+  * Tableau
+  * Pentaho Data Integration
 
 ### Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
