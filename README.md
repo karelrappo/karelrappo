@@ -1,10 +1,18 @@
 ### Hi there 👋
+<div id="Contacts" align="center">
+  <a href="https://www.linkedin.com/in/mpalkovic/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/karelrappo/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
 
 ## 👨‍💻About me
 
 * Data analyst with strong background in Finance
 * from the land of unicorns - Estonia
-* Do website development as a hobby
+* Play volley, golf & tennis
 * Self-learned Python, SQL, R
 
 ## 📚Skills
@@ -13,17 +21,17 @@
 * BI & ETL development
 
 ### Stack:
-* SQL (Snowflake, Postgre, Hive)
-* R
-* Python 
-  * Pandas
-  * Numpy
-  * Sklearn
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+
 * Pentaho Data Integration
-* git ..duh obviously
 * Tableau
 * MicroStrategy
-* RShiny
 
 ## 📁Portfolio Projects
 ### Python
@@ -48,3 +56,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karelrappo)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=karelrappo&color=green)
